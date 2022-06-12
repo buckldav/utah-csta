@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcsta_docs=self.webpackChunkcsta_docs||[]).push([[496],{9152:function(t){t.exports=JSON.parse('{"label":"getting started","permalink":"/utah-csta/blog/tags/getting-started","allTagsPath":"/utah-csta/blog/tags","count":1}')}}]);

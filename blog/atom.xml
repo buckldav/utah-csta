@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://buckldav.github.io/utah-csta/blog</id>
+    <title>Utah CSTA Blog</title>
+    <updated>2022-06-11T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://buckldav.github.io/utah-csta/blog"/>
+    <subtitle>Utah CSTA Blog</subtitle>
+    <icon>https://buckldav.github.io/utah-csta/https://cdn3.vectorstock.com/i/thumb-large/94/97/map-of-the-us-state-of-utah-vector-20519497.jpg</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>welcome</id>
+        <link href="https://buckldav.github.io/utah-csta/blog/welcome"/>
+        <updated>2022-06-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I made this little Markdown site using Docusaurus. I hope you find something here that can help you in your instruction.]]></summary>
+        <content type="html"><![CDATA[<p>I made this little Markdown site using <a href="https://docusaurus.io" target="_blank" rel="noopener noreferrer">Docusaurus</a>. I hope you find something here that can help you in your instruction.</p><p>Contribute to the blog by following <a href="/utah-csta/docs/github/add-post">this guide</a>.</p>]]></content>
+        <author>
+            <name>David Buckley</name>
+            <uri>https://github.com/buckldav</uri>
+        </author>
+        <category label="welcome" term="welcome"/>
+        <category label="getting started" term="getting started"/>
+    </entry>
+</feed>
