@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcsta_docs=self.webpackChunkcsta_docs||[]).push([[596],{5251:function(t){t.exports=JSON.parse('{"permalink":"/utah-csta/blog/tags/getting-started","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

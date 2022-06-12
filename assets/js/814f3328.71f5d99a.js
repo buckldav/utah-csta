@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcsta_docs=self.webpackChunkcsta_docs||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/utah-csta/blog/welcome"}]}')}}]);

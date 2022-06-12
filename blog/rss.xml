@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Utah CSTA Blog</title>
+        <link>https://buckldav.github.io/utah-csta/blog</link>
+        <description>Utah CSTA Blog</description>
+        <lastBuildDate>Sat, 11 Jun 2022 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://buckldav.github.io/utah-csta/blog/welcome</link>
+            <guid>welcome</guid>
+            <pubDate>Sat, 11 Jun 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[I made this little Markdown site using Docusaurus. I hope you find something here that can help you in your instruction.]]></description>
+            <content:encoded><![CDATA[<p>I made this little Markdown site using <a href="https://docusaurus.io" target="_blank" rel="noopener noreferrer">Docusaurus</a>. I hope you find something here that can help you in your instruction.</p><p>Contribute to the blog by following <a href="/utah-csta/docs/github/add-post">this guide</a>.</p>]]></content:encoded>
+            <category>welcome</category>
+            <category>getting started</category>
+        </item>
+    </channel>
+</rss>
