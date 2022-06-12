@@ -7,12 +7,13 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Utah CSTA",
-  tagline: "Shared coding resources",
+  tagline: "Shared coding resources. Made using Docusaurus and Markdown.",
   url: "https://buckldav.github.io",
   baseUrl: "/utah-csta/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-  favicon: "img/favicon.ico",
+  favicon:
+    "https://cdn3.vectorstock.com/i/thumb-large/94/97/map-of-the-us-state-of-utah-vector-20519497.jpg",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -58,7 +59,7 @@ const config = {
         title: "Utah CSTA",
         logo: {
           alt: "Utah CSTA Logo",
-          src: "/img/logo.svg",
+          src: "https://cdn3.vectorstock.com/i/thumb-large/94/97/map-of-the-us-state-of-utah-vector-20519497.jpg",
         },
         items: [
           {
