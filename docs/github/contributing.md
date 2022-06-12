@@ -1,15 +1,12 @@
 ---
-slug: welcome
-title: Welcome
-authors: [buckley]
-tags: [welcome, getting started]
+sidebar_position: 2
 ---
 
-I made this little Markdown site using [Docusaurus](https://docusaurus.io). I hope you find something here that can help you in your instruction.
+# Contributing
 
 ## How to add a Blog Post
 
-1. Fork this repository.
+1. Fork [this repository](https://github.com/buckldav/utah-csta).
 2. Add a page under the `/blog/` folder with the format `YYYY-MM-DD-title.md`.
 3. Add the following to your new page:
 
