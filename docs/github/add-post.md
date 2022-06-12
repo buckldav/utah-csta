@@ -2,9 +2,7 @@
 sidebar_position: 2
 ---
 
-# Contributing
-
-## How to add a Blog Post
+# How to add a Blog Post
 
 1. Fork [this repository](https://github.com/buckldav/utah-csta).
 2. Add a page under the `/blog/` folder with the format `YYYY-MM-DD-title.md`.
